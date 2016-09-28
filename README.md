@@ -4,7 +4,7 @@
 
 ## Prerequisites
 
--Node JS
--Basic Understanding of TyepScript
--Basic Understanding of Fundamentals of Angular 2
--Basic Understanding of Forms in any Web Application
+1.Basic understanding of NPM.
+2.Basic understanding of TyepScript
+3.Basic understanding of Fundamentals of Angular 2
+4.Basic understanding of Forms in any Web Application
