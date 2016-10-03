@@ -1,8 +1,9 @@
 # Angular 2 Forms | Mini Workshop | Angular Connect
 
+[Clikc here to see the video to complete the workshop](https://youtu.be/HGjcKw53I9w)
+[Online Public Presentation](https://goo.gl/GNCMmM) 
 
-
-## Prerequisites
+#### Prerequisites
 
 1.Basic understanding of NPM.
 ---
@@ -14,4 +15,5 @@
 ---
 
 
-[Online Public Presentation](https://goo.gl/GNCMmM) 
+
+
